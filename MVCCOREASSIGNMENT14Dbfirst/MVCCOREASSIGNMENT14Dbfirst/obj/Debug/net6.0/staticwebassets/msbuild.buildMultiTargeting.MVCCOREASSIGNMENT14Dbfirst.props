@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCCOREASSIGNMENT14Dbfirst.props" />
+</Project>
